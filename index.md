@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+author: SteelPh0enix
 title: Ultimate Raylib setup guide!
 ---
 
