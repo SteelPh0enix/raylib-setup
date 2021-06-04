@@ -1,7 +1,7 @@
-title: Hello there
+title: Ultimate Raylib C/C++ setup guide
 email: steelphoenix2137@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a test site for now
+  How to get Raylib working under your OS and with your preferred build system!
 baseurl: "/raylib-setup" # the subpath of your site, e.g. /blog
 url: "https://steelph0enix.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: steel_ph0enix
