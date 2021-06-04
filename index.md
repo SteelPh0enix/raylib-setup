@@ -13,7 +13,9 @@ I'm hoping to create the most comprehensive setup wiki for Raylib.
 If you have suggestions, or you want your favourite OS/toolchain/build system featured here, please let me know, or make a PR for this repository (link is on the top of page)
 
 My Discord handle: SteelPh0enix#6969
+
 Raylib's Discord server: <https://discord.gg/raylib>
+
 Raylib's homepage: <https://www.raylib.com/>
 
 ## Featured software
@@ -26,7 +28,7 @@ IDE is a program used to create applications, it's usually composed of an editor
 
 Suggested IDEs and editors:
 
-* **Microsoft Visual Studio 2019** - free, but very big and limited to Windows only. A good choice for a beginner, as it requires very litte configuration to get going.
+* [**Microsoft Visual Studio 2019**](./) - free, but very big and limited to Windows only. A good choice for a beginner, as it requires very litte configuration to get going.
 * **IntelliJ CLion** - paid IDE, unless you can get academic license. It's lighter than Visual Studio, and it has very good refactoring and analyzing tools. Also a good choice for beginner, a bit harder to setup than Visual Studio.
 * **Visual Studio Code** - free and very powerful editor with thousands of plugins, making it very suitable tool for any language.
 
