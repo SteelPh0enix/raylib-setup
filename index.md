@@ -28,17 +28,17 @@ IDE is a program used to create applications, it's usually composed of an editor
 
 Suggested IDEs and editors:
 
-* [**Microsoft Visual Studio 2019**](./) - free, but very big and limited to Windows only. A good choice for a beginner, as it requires very litte configuration to get going.
-* **IntelliJ CLion** - paid IDE, unless you can get academic license. It's lighter than Visual Studio, and it has very good refactoring and analyzing tools. Also a good choice for beginner, a bit harder to setup than Visual Studio.
-* **Visual Studio Code** - free and very powerful editor with thousands of plugins, making it very suitable tool for any language.
+* [**Microsoft Visual Studio 2019**](https://visualstudio.microsoft.com/en/vs/) - free, but very big and limited to Windows only. A good choice for a beginner, as it requires very litte configuration to get going.
+* [**IntelliJ CLion**](https://www.jetbrains.com/clion/) - paid IDE, unless you can get academic license. It's lighter than Visual Studio, and it has very good refactoring and analyzing tools. Also a good choice for beginner, a bit harder to setup than Visual Studio.
+* [**Visual Studio Code**](https://code.visualstudio.com/) - free and very powerful editor with thousands of plugins, making it very suitable tool for any language.
 
 ### Toolchains (compilers)
 
 There are few commonly used toolchain that works with Raylib without major issues
 
-* **MinGW/GCC** - GNU Compiler Collection, very popular and simple to use toolchain. **Recommended for beginners**
+* **[MinGW](http://mingw-w64.org/doku.php/download/mingw-builds)/GCC** - GNU Compiler Collection, very popular and simple to use toolchain. **Recommended for beginners**
 * **Microsoft Visual C/C++** - Microsoft's toolchain, Windows-only. Also good for beginners, if used with Visual Studio
-* **Clang** - a frontend for LLVM project. Not recommended for beginner Windows users.
+* [**Clang**](https://releases.llvm.org/download.html) - a frontend for LLVM project. Not recommended for beginner Windows users.
 
 ### Build systems
 
@@ -47,13 +47,13 @@ Build system is a tool that tells the toolchain (compiler) how to create the app
 Commonly used build systems:
 
 * **make** - default build system for MinGW and GCC toolchains
-* **ninja** - small build system which works with multiple toolchains
+* [**ninja**](https://ninja-build.org/) - small build system which works with multiple toolchains
 * **MSBuild** - Microsoft's build system for Microsoft Visual C and C++
 
 Commonly used meta-build systems:
 
-* **CMake** - an industry standard C/C++ meta-build system, extremely popular. Decent for beginners.
-* **Premake** - very simple, Lua-based meta-build system. Very good for beginners.
+* [**CMake**](https://cmake.org/) - an industry standard C/C++ meta-build system, extremely popular. Decent for beginners.
+* [**Premake**](https://premake.github.io/) - very simple, Lua-based meta-build system. Very good for beginners.
 
 ## Guides
 
